@@ -1,0 +1,30 @@
+server:
+    port: 8099
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        enabled: true
+        server-addr: 127.0.0.1:8848
+        namespace: public
+        group: cloud
+    sentinel:
+      eager: true
+      enabled: true
+      transport:
+        port: 8718
+        dashboard: localhost:8888
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+dubbo:
+  registry:
+    address: nacos://localhost:8848
+  protocol:
+    name: dubbo
+    port: -1

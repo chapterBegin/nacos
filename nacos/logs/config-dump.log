@@ -1,0 +1,8 @@
+2019-12-01 07:24:53,672 INFO [dump-all-ok] service-provider-test.yml+cloud, 1575109664000, length=261, md5=b3b59e0094669cd63caecd87c1d689d3
+
+2019-12-01 07:24:53,682 INFO [dump-all-ok] service-consumer-test.yml+cloud, 1575112311000, length=412, md5=ec53cbde2c545b49441870ed06d6c27e
+
+2019-12-01 07:41:38,485 INFO [dump-all-ok] service-provider-test.yml+cloud, 1575109664000, length=261, md5=b3b59e0094669cd63caecd87c1d689d3
+
+2019-12-01 07:41:38,487 INFO [dump-all-ok] service-consumer-test.yml+cloud, 1575112311000, length=412, md5=ec53cbde2c545b49441870ed06d6c27e
+

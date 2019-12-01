@@ -1,0 +1,186 @@
+2019-11-30 07:40:14,170 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.109:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 07:40:14,177 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.2.109:8099_true,
+
+2019-11-30 07:54:14,809 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.109:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 07:54:14,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:8080_true,
+
+2019-11-30 07:56:01,422 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.109:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 07:56:01,422 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,192.168.2.109:8080_true,
+
+2019-11-30 07:56:09,883 INFO {POS} {IP-DISABLED} valid: 192.168.2.109:8080@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575071754451
+
+2019-11-30 07:56:25,224 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.109:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 07:56:25,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:09:38,333 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:11:25,965 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:15:51,810 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.2.109:8099_true,
+
+2019-11-30 08:19:25,081 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:20:19,690 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:21:17,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.2.109:8099_true,
+
+2019-11-30 08:32:37,623 INFO {POS} {IP-DISABLED} valid: 192.168.2.109:8099@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575073927585
+
+2019-11-30 08:32:37,623 INFO {POS} {IP-DISABLED} valid: 192.168.2.109:9090@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575073929594
+
+2019-11-30 08:32:37,999 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.109:8099:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 08:32:37,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
+
+2019-11-30 08:32:40,167 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.109:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 08:32:40,167 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.2.109:8099_true,
+
+2019-11-30 08:32:42,173 INFO service: DEFAULT_GROUP@@service-consumer {POS} {IP-ENABLED} valid: 192.168.2.109:9090@DEFAULT, region: unknown, msg: client beat ok
+
+2019-11-30 08:41:42,095 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 08:58:07,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 09:06:57,462 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 09:15:48,251 INFO {POS} {IP-DISABLED} valid: 192.168.2.109:9090@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575076532029
+
+2019-11-30 09:16:03,280 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.109:9090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 09:16:03,280 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 
+
+2019-11-30 13:02:20,639 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.109:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 13:02:20,643 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.2.109:9090_true,
+
+2019-11-30 13:13:35,703 INFO {POS} {IP-DISABLED} valid: 192.168.2.109:9090@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575090797260
+
+2019-11-30 13:13:51,168 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.109:9090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 13:13:51,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 
+
+2019-11-30 16:59:26,220 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 16:59:26,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,
+
+2019-11-30 17:04:45,906 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,
+
+2019-11-30 17:06:30,065 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,
+
+2019-11-30 17:07:19,643 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 17:07:19,658 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,
+
+2019-11-30 17:07:43,439 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 17:07:43,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,192.168.43.38:9091_true,
+
+2019-11-30 17:07:54,578 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:9090@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575104854805
+
+2019-11-30 17:08:09,824 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:9090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 17:08:09,824 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9091_true,
+
+2019-11-30 17:08:11,704 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 17:08:11,704 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9090_true,192.168.43.38:9091_true,
+
+2019-11-30 17:08:29,811 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:9090@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575104891703
+
+2019-11-30 17:08:44,826 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:9090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 17:08:44,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.43.38:9091_true,
+
+2019-11-30 17:12:04,908 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:9091@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575105109123
+
+2019-11-30 17:12:19,949 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:9091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 17:12:19,949 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 
+
+2019-11-30 17:16:54,256 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 17:16:54,260 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8080_true,
+
+2019-11-30 17:18:09,364 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 17:18:09,364 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8099_true,192.168.43.38:8080_true,
+
+2019-11-30 17:18:14,213 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8080@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575105478749
+
+2019-11-30 17:18:29,486 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 17:18:29,486 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 17:19:24,481 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:01:34,881 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8099@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575108079490
+
+2019-11-30 18:01:49,902 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 18:01:49,902 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
+
+2019-11-30 18:23:27,754 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 18:23:27,754 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:28:04,637 INFO cloud@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 18:28:04,637 INFO [IP-UPDATED] namespace: public, service: cloud@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:28:10,160 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8099@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575109673338
+
+2019-11-30 18:28:25,168 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 18:28:25,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
+
+2019-11-30 18:28:26,862 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 18:28:26,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:28:45,167 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8099@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575109706862
+
+2019-11-30 18:29:00,175 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.43.38:8099:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-30 18:29:00,175 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
+
+2019-11-30 18:31:29,191 INFO [IP-UPDATED] namespace: public, service: cloud@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:39:15,244 INFO cloud@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.43.38:8098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-30 18:39:15,244 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 18:42:28,798 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 18:46:22,314 INFO [IP-UPDATED] namespace: public, service: cloud@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:47:15,321 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8098@DEFAULT@cloud@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575110819367
+
+2019-11-30 18:47:16,965 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_false,
+
+2019-11-30 18:47:21,958 INFO service: cloud@@service-consumer {POS} {IP-ENABLED} valid: 192.168.43.38:8098@DEFAULT, region: unknown, msg: client beat ok
+
+2019-11-30 18:50:47,772 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 18:51:06,056 INFO [IP-UPDATED] namespace: public, service: cloud@@service-provider, ips: 192.168.43.38:8099_true,
+
+2019-11-30 18:53:13,865 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 18:57:45,355 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 19:03:41,055 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 19:12:07,048 INFO [IP-UPDATED] namespace: public, service: cloud@@service-consumer, ips: 192.168.43.38:8098_true,
+
+2019-11-30 22:14:03,912 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8099@DEFAULT@cloud@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1575112439126
+
+2019-11-30 22:14:03,912 INFO {POS} {IP-DISABLED} valid: 192.168.43.38:8098@DEFAULT@cloud@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1575112437343
+
+2019-11-30 22:14:03,913 INFO service: cloud@@service-consumer {POS} {IP-ENABLED} valid: 192.168.43.38:8098@DEFAULT, region: unknown, msg: client beat ok
+
+2019-11-30 22:14:03,913 INFO service: cloud@@service-provider {POS} {IP-ENABLED} valid: 192.168.43.38:8099@DEFAULT, region: unknown, msg: client beat ok
+

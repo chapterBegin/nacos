@@ -1,0 +1,474 @@
+2019-11-30 12:32:59,159 INFO notifyConnectTimeout:200
+
+2019-11-30 12:32:59,162 INFO notifySocketTimeout:8000
+
+2019-11-30 12:32:59,164 INFO isHealthCheck:true
+
+2019-11-30 12:32:59,164 INFO maxHealthCheckFailCount:12
+
+2019-11-30 12:32:59,164 INFO maxContent:10485760
+
+2019-11-30 12:32:59,165 INFO spring.datasource.platform:mysql
+
+2019-11-30 12:33:01,233 INFO ServerListService address-server port:8848
+
+2019-11-30 12:33:01,235 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-30 12:33:01,237 WARN [serverlist] updated to [192.168.2.109]
+
+2019-11-30 12:33:01,401 WARN DumpService start
+
+2019-11-30 12:33:01,407 INFO start clear all config-info.
+
+2019-11-30 12:33:01,422 INFO clear all config-info success.
+
+2019-11-30 12:33:01,422 WARN clear all config-info-tenant failed.
+
+2019-11-30 12:33:01,575 INFO [all-dump] 33 / 33
+
+2019-11-30 12:33:01,575 INFO start clear all config-info-beta.
+
+2019-11-30 12:33:01,576 WARN clear all config-info-beta failed.
+
+2019-11-30 12:33:01,576 WARN clear all config-info-beta-tenant failed.
+
+2019-11-30 12:33:01,583 INFO start clear all config-info-tag.
+
+2019-11-30 12:33:01,583 WARN clear all config-info-tag failed.
+
+2019-11-30 12:33:01,583 WARN clear all config-info-tag-tenant failed.
+
+2019-11-30 16:52:23,150 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:13
+
+2019-11-30 16:52:28,151 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:14
+
+2019-11-30 16:52:33,154 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:15
+
+2019-11-30 16:52:38,156 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:16
+
+2019-11-30 16:52:43,156 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:17
+
+2019-11-30 16:52:48,157 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:18
+
+2019-11-30 16:52:53,158 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:19
+
+2019-11-30 16:52:58,160 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:20
+
+2019-11-30 16:53:03,159 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:21
+
+2019-11-30 16:53:08,161 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:22
+
+2019-11-30 16:53:13,162 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:23
+
+2019-11-30 16:53:18,162 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:24
+
+2019-11-30 16:53:23,164 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:25
+
+2019-11-30 16:53:28,165 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:26
+
+2019-11-30 16:53:33,166 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:27
+
+2019-11-30 16:53:38,166 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:28
+
+2019-11-30 16:53:43,167 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:29
+
+2019-11-30 16:53:48,170 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:30
+
+2019-11-30 16:53:53,170 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:31
+
+2019-11-30 16:53:58,173 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:32
+
+2019-11-30 16:54:03,174 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:33
+
+2019-11-30 16:54:08,175 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:34
+
+2019-11-30 16:54:13,176 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:35
+
+2019-11-30 16:54:18,178 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:36
+
+2019-11-30 16:54:23,180 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:37
+
+2019-11-30 16:54:28,180 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:38
+
+2019-11-30 16:54:33,183 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:39
+
+2019-11-30 16:54:38,188 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:40
+
+2019-11-30 16:54:43,185 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:41
+
+2019-11-30 16:54:48,188 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:42
+
+2019-11-30 16:54:53,190 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:43
+
+2019-11-30 16:54:58,189 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:44
+
+2019-11-30 16:55:03,192 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:45
+
+2019-11-30 16:55:08,194 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:46
+
+2019-11-30 16:55:13,194 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:47
+
+2019-11-30 16:55:18,196 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:48
+
+2019-11-30 16:55:23,198 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:49
+
+2019-11-30 16:55:28,199 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:50
+
+2019-11-30 16:55:33,202 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:51
+
+2019-11-30 16:55:38,199 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:52
+
+2019-11-30 16:55:43,202 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:53
+
+2019-11-30 16:55:48,202 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:54
+
+2019-11-30 16:55:53,204 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:55
+
+2019-11-30 16:55:58,204 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:56
+
+2019-11-30 16:56:03,206 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:57
+
+2019-11-30 16:56:08,207 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:58
+
+2019-11-30 16:56:13,209 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:59
+
+2019-11-30 16:56:18,210 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:60
+
+2019-11-30 16:56:23,210 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:61
+
+2019-11-30 16:56:28,215 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:62
+
+2019-11-30 16:56:33,211 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:63
+
+2019-11-30 16:56:38,213 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:64
+
+2019-11-30 16:56:43,216 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:65
+
+2019-11-30 16:56:48,215 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:66
+
+2019-11-30 16:56:53,217 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:67
+
+2019-11-30 16:56:58,219 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:68
+
+2019-11-30 16:57:03,219 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:69
+
+2019-11-30 16:57:08,222 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:70
+
+2019-11-30 16:57:13,221 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:71
+
+2019-11-30 16:57:18,224 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:72
+
+2019-11-30 16:57:23,229 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:73
+
+2019-11-30 16:57:28,228 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:74
+
+2019-11-30 16:57:33,228 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:75
+
+2019-11-30 16:57:38,229 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:76
+
+2019-11-30 16:57:43,232 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:77
+
+2019-11-30 16:57:48,233 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:78
+
+2019-11-30 16:57:53,234 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:79
+
+2019-11-30 16:57:58,236 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:80
+
+2019-11-30 16:58:03,238 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:81
+
+2019-11-30 16:58:08,238 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:82
+
+2019-11-30 16:58:13,239 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:83
+
+2019-11-30 16:58:18,244 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:84
+
+2019-11-30 16:58:23,243 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:85
+
+2019-11-30 16:58:28,243 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:86
+
+2019-11-30 16:58:33,243 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:87
+
+2019-11-30 16:58:38,246 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:88
+
+2019-11-30 16:58:43,248 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:89
+
+2019-11-30 16:58:48,249 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:90
+
+2019-11-30 16:58:53,250 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:91
+
+2019-11-30 16:58:58,252 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:92
+
+2019-11-30 16:59:03,254 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:93
+
+2019-11-30 16:59:08,255 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:94
+
+2019-11-30 16:59:13,257 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:95
+
+2019-11-30 16:59:18,258 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:96
+
+2019-11-30 16:59:23,258 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:97
+
+2019-11-30 16:59:28,259 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:98
+
+2019-11-30 16:59:33,263 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:99
+
+2019-11-30 16:59:38,262 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:100
+
+2019-11-30 16:59:43,264 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:101
+
+2019-11-30 16:59:48,265 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:102
+
+2019-11-30 16:59:53,267 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:103
+
+2019-11-30 16:59:58,266 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:104
+
+2019-11-30 17:00:03,267 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:105
+
+2019-11-30 17:00:08,271 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:106
+
+2019-11-30 17:00:13,270 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:107
+
+2019-11-30 17:00:18,270 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:108
+
+2019-11-30 17:00:23,272 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:109
+
+2019-11-30 17:00:28,272 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:110
+
+2019-11-30 17:00:33,273 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:111
+
+2019-11-30 17:00:38,275 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:112
+
+2019-11-30 17:00:43,274 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:113
+
+2019-11-30 17:00:48,275 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:114
+
+2019-11-30 17:00:53,277 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:115
+
+2019-11-30 17:00:58,279 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:116
+
+2019-11-30 17:01:03,283 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:117
+
+2019-11-30 17:01:08,283 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:118
+
+2019-11-30 17:01:13,285 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:119
+
+2019-11-30 17:01:18,286 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:120
+
+2019-11-30 17:01:23,289 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:121
+
+2019-11-30 17:01:28,288 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:122
+
+2019-11-30 17:01:33,290 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:123
+
+2019-11-30 17:01:38,291 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:124
+
+2019-11-30 17:01:43,293 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:125
+
+2019-11-30 17:01:48,294 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:126
+
+2019-11-30 17:01:53,296 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:127
+
+2019-11-30 17:01:58,300 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:128
+
+2019-11-30 17:02:03,298 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:129
+
+2019-11-30 17:02:08,301 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:130
+
+2019-11-30 17:02:13,303 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:131
+
+2019-11-30 17:02:18,306 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:132
+
+2019-11-30 17:02:23,307 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:133
+
+2019-11-30 17:02:28,309 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:134
+
+2019-11-30 17:02:33,310 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:135
+
+2019-11-30 17:02:38,311 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:136
+
+2019-11-30 17:02:43,311 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:137
+
+2019-11-30 17:02:48,313 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:138
+
+2019-11-30 17:02:53,319 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:139
+
+2019-11-30 17:02:58,317 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:140
+
+2019-11-30 17:03:03,318 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:141
+
+2019-11-30 17:03:08,319 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:142
+
+2019-11-30 17:03:13,319 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:143
+
+2019-11-30 17:03:18,321 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:144
+
+2019-11-30 17:03:23,324 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:145
+
+2019-11-30 17:03:28,325 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:146
+
+2019-11-30 17:03:33,332 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:147
+
+2019-11-30 17:03:38,331 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:148
+
+2019-11-30 17:03:43,335 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:149
+
+2019-11-30 17:03:48,341 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:150
+
+2019-11-30 17:03:53,339 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:151
+
+2019-11-30 17:03:58,343 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:152
+
+2019-11-30 17:04:03,343 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:153
+
+2019-11-30 17:04:08,343 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:154
+
+2019-11-30 17:04:13,346 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:155
+
+2019-11-30 17:04:18,346 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:156
+
+2019-11-30 17:04:23,348 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:157
+
+2019-11-30 17:04:28,348 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:158
+
+2019-11-30 17:04:33,349 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:159
+
+2019-11-30 17:04:38,349 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:160
+
+2019-11-30 17:04:43,352 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:161
+
+2019-11-30 17:04:48,352 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:162
+
+2019-11-30 17:04:53,352 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:163
+
+2019-11-30 17:04:58,356 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:164
+
+2019-11-30 17:05:03,357 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:165
+
+2019-11-30 17:05:08,357 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:166
+
+2019-11-30 17:05:13,379 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:167
+
+2019-11-30 17:05:18,359 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:168
+
+2019-11-30 17:05:23,359 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:169
+
+2019-11-30 17:05:28,360 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:170
+
+2019-11-30 17:05:33,360 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:171
+
+2019-11-30 17:05:38,364 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:172
+
+2019-11-30 17:05:43,363 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:173
+
+2019-11-30 17:05:48,364 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:174
+
+2019-11-30 17:05:53,365 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:175
+
+2019-11-30 17:05:58,365 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:176
+
+2019-11-30 17:06:03,367 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:177
+
+2019-11-30 17:06:08,368 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:178
+
+2019-11-30 17:06:13,369 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:179
+
+2019-11-30 17:06:18,372 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:180
+
+2019-11-30 17:06:23,375 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:181
+
+2019-11-30 17:06:28,374 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:182
+
+2019-11-30 17:06:33,377 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:183
+
+2019-11-30 17:06:38,377 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:184
+
+2019-11-30 17:06:43,378 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:185
+
+2019-11-30 17:06:48,378 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:186
+
+2019-11-30 17:06:53,378 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:187
+
+2019-11-30 17:06:58,380 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:188
+
+2019-11-30 17:07:03,382 ERROR unhealthIp:192.168.2.109:8848, unhealthCount:189
+
+2019-11-30 17:07:15,947 INFO notifyConnectTimeout:200
+
+2019-11-30 17:07:15,948 INFO notifySocketTimeout:8000
+
+2019-11-30 17:07:15,948 INFO isHealthCheck:true
+
+2019-11-30 17:07:15,948 INFO maxHealthCheckFailCount:12
+
+2019-11-30 17:07:15,948 INFO maxContent:10485760
+
+2019-11-30 17:07:15,949 INFO spring.datasource.platform:mysql
+
+2019-11-30 17:07:17,204 INFO ServerListService address-server port:8848
+
+2019-11-30 17:07:17,205 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-30 17:07:17,206 WARN [serverlist] updated to [192.168.43.38]
+
+2019-11-30 17:07:17,313 WARN DumpService start
+
+2019-11-30 17:07:17,318 INFO start clear all config-info.
+
+2019-11-30 17:07:17,332 INFO clear all config-info success.
+
+2019-11-30 17:07:17,333 WARN clear all config-info-tenant failed.
+
+2019-11-30 17:07:17,430 INFO [all-dump] 33 / 33
+
+2019-11-30 17:07:17,430 INFO start clear all config-info-beta.
+
+2019-11-30 17:07:17,430 WARN clear all config-info-beta failed.
+
+2019-11-30 17:07:17,431 WARN clear all config-info-beta-tenant failed.
+
+2019-11-30 17:07:17,435 INFO start clear all config-info-tag.
+
+2019-11-30 17:07:17,435 WARN clear all config-info-tag failed.
+
+2019-11-30 17:07:17,435 WARN clear all config-info-tag-tenant failed.
+
+2019-11-30 17:13:24,131 INFO notifyConnectTimeout:200
+
+2019-11-30 17:13:24,131 INFO notifySocketTimeout:8000
+
+2019-11-30 17:13:24,131 INFO isHealthCheck:true
+
+2019-11-30 17:13:24,131 INFO maxHealthCheckFailCount:12
+
+2019-11-30 17:13:24,138 INFO maxContent:10485760
+
+2019-11-30 17:13:24,138 INFO spring.datasource.platform:mysql
+
+2019-11-30 17:13:25,438 INFO ServerListService address-server port:8848
+
+2019-11-30 17:13:25,438 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-30 17:13:25,444 WARN [serverlist] updated to [192.168.43.38]
+
+2019-11-30 17:13:25,536 WARN DumpService start
+
+2019-11-30 17:13:25,550 INFO start clear all config-info.
+
+2019-11-30 17:13:25,561 INFO clear all config-info success.
+
+2019-11-30 17:13:25,561 WARN clear all config-info-tenant failed.
+
+2019-11-30 17:13:25,642 INFO [all-dump] 33 / 33
+
+2019-11-30 17:13:25,642 INFO start clear all config-info-beta.
+
+2019-11-30 17:13:25,642 WARN clear all config-info-beta failed.
+
+2019-11-30 17:13:25,643 WARN clear all config-info-beta-tenant failed.
+
+2019-11-30 17:13:25,647 INFO start clear all config-info-tag.
+
+2019-11-30 17:13:25,647 WARN clear all config-info-tag failed.
+
+2019-11-30 17:13:25,647 WARN clear all config-info-tag-tenant failed.
+

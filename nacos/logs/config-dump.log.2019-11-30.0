@@ -1,0 +1,12 @@
+2019-11-30 12:33:01,558 INFO [dump-all-ok] service-provider-test.properties+cloud, 1574936555000, length=16, md5=e5df59c73d553108900b5bf2176ae8ba
+
+2019-11-30 12:33:01,574 INFO [dump-all-ok] service-consumer-test.properties+cloud, 1575076000000, length=146, md5=5d609f3e8b590440062e9def62aef580
+
+2019-11-30 17:07:17,420 INFO [dump-all-ok] service-provider-test.properties+cloud, 1574936555000, length=16, md5=e5df59c73d553108900b5bf2176ae8ba
+
+2019-11-30 17:07:17,430 INFO [dump-all-ok] service-consumer-test.properties+cloud, 1575104755000, length=146, md5=7d74b6adab53abdf9eecae4b3277b18e
+
+2019-11-30 17:13:25,638 INFO [dump-all-ok] service-provider-test.properties+cloud, 1574936555000, length=16, md5=e5df59c73d553108900b5bf2176ae8ba
+
+2019-11-30 17:13:25,642 INFO [dump-all-ok] service-consumer-test.properties+cloud, 1575104755000, length=146, md5=7d74b6adab53abdf9eecae4b3277b18e
+

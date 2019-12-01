@@ -1,0 +1,418 @@
+2019-11-28 02:40:33,595 WARN clearConfigHistory start
+
+2019-11-28 09:44:56,877 WARN clearConfigHistory start
+
+2019-11-28 09:45:55,403 INFO [capacityManagement] start correct usage
+
+2019-11-28 09:45:55,406 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 09:54:56,907 WARN clearConfigHistory start
+
+2019-11-28 09:55:55,410 INFO [capacityManagement] start correct usage
+
+2019-11-28 09:55:55,412 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 09:57:30,495 INFO Expired JWT token.
+
+2019-11-28 09:57:30,497 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:00:04,058 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:00:04,063 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:00:04,070 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:04:56,912 WARN clearConfigHistory start
+
+2019-11-28 10:05:55,415 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:05:55,421 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 10:14:56,919 WARN clearConfigHistory start
+
+2019-11-28 10:15:55,425 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:15:55,432 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 10:19:44,875 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:19:45,031 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:19:45,073 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:43,775 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:43,941 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:43,986 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:45,877 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:46,065 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:20:46,107 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:05,891 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:05,898 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:34,764 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:34,921 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:34,959 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:36,854 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:36,930 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:37,055 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:37,434 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:37,590 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:21:37,631 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:24:56,925 WARN clearConfigHistory start
+
+2019-11-28 10:25:25,700 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:25:25,855 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:25:25,899 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:25:34,647 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:25:34,656 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:25:55,434 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:25:55,438 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 10:26:36,479 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:29:49,413 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:30:00,910 INFO Expired JWT token.
+
+2019-11-28 10:30:00,911 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 10:34:56,930 WARN clearConfigHistory start
+
+2019-11-28 10:35:55,440 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:35:55,446 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 10:44:56,937 WARN clearConfigHistory start
+
+2019-11-28 10:45:55,448 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:45:55,453 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 10:54:56,943 WARN clearConfigHistory start
+
+2019-11-28 10:55:55,456 INFO [capacityManagement] start correct usage
+
+2019-11-28 10:55:55,458 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 11:04:56,946 WARN clearConfigHistory start
+
+2019-11-28 11:05:55,460 INFO [capacityManagement] start correct usage
+
+2019-11-28 11:05:55,462 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 11:14:56,950 WARN clearConfigHistory start
+
+2019-11-28 11:15:55,464 INFO [capacityManagement] start correct usage
+
+2019-11-28 11:15:55,471 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 11:24:56,955 WARN clearConfigHistory start
+
+2019-11-28 11:25:55,473 INFO [capacityManagement] start correct usage
+
+2019-11-28 11:25:55,478 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 11:34:56,961 WARN clearConfigHistory start
+
+2019-11-28 11:35:55,481 INFO [capacityManagement] start correct usage
+
+2019-11-28 11:35:55,486 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 11:44:56,963 WARN clearConfigHistory start
+
+2019-11-28 11:45:55,488 INFO [capacityManagement] start correct usage
+
+2019-11-28 11:45:55,490 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 14:38:56,483 INFO Starting Nacos v1.1.4 on LAPTOP-ESGKGTQJ with PID 20856 (C:\Users\chapterless\Desktop\nacos\target\nacos-server.jar started by chapterless in C:\Users\chapterless\Desktop\nacos\bin)
+
+2019-11-28 14:38:56,486 INFO The following profiles are active: standalone
+
+2019-11-28 14:38:58,638 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$f525183a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-11-28 14:38:58,744 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-11-28 14:38:58,748 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@247310d0' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-11-28 14:38:58,751 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$19f9baec] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-11-28 14:38:58,757 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-11-28 14:38:59,508 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-11-28 14:38:59,545 INFO Starting service [Tomcat]
+
+2019-11-28 14:38:59,545 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-11-28 14:38:59,558 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\chapterless\AppData\Local\Microsoft\WindowsApps;C:\Users\chapterless\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\bin;;.]
+
+2019-11-28 14:38:59,926 INFO Initializing Spring embedded WebApplicationContext
+
+2019-11-28 14:38:59,927 INFO Root WebApplicationContext: initialization completed in 3379 ms
+
+2019-11-28 14:39:00,797 INFO Use Mysql as the driver
+
+2019-11-28 14:39:02,560 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-11-28 14:39:02,751 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-11-28 14:39:03,106 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-11-28 14:39:03,107 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-11-28 14:39:03,109 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-11-28 14:39:03,109 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-11-28 14:39:03,110 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-11-28 14:39:03,110 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-11-28 14:39:03,111 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-11-28 14:39:03,112 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-11-28 14:39:03,113 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-11-28 14:39:03,113 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-11-28 14:39:03,113 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2019-11-28 14:39:03,114 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-11-28 14:39:03,114 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-11-28 14:39:03,115 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-11-28 14:39:03,115 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-11-28 14:39:03,116 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2019-11-28 14:39:03,158 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@52045dbe, org.springframework.security.web.context.SecurityContextPersistenceFilter@7fc6de5b, org.springframework.security.web.header.HeaderWriterFilter@25b2cfcb, org.springframework.security.web.authentication.logout.LogoutFilter@3382f8ae, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@674658f7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@607fbe09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5dd91bca, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5c8eee0f, org.springframework.security.web.session.SessionManagementFilter@fb9c7aa, org.springframework.security.web.access.ExceptionTranslationFilter@4da602fc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@57fd91c9]
+
+2019-11-28 14:39:03,256 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2019-11-28 14:39:03,288 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-11-28 14:39:03,396 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-11-28 14:39:03,402 INFO Started Nacos in 8.057 seconds (JVM running for 8.745)
+
+2019-11-28 14:39:03,402 INFO Nacos Log files: C:\Users\chapterless\Desktop\nacos/logs/
+
+2019-11-28 14:39:03,403 INFO Nacos Conf files: C:\Users\chapterless\Desktop\nacos/conf/
+
+2019-11-28 14:39:03,403 INFO Nacos Data files: C:\Users\chapterless\Desktop\nacos/data/
+
+2019-11-28 14:39:03,404 INFO Nacos started successfully in stand alone mode.
+
+2019-11-28 14:39:06,755 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-11-28 14:39:06,756 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-11-28 14:39:06,765 INFO Completed initialization in 9 ms
+
+2019-11-28 14:49:01,985 INFO [capacityManagement] start correct usage
+
+2019-11-28 14:49:02,003 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 14:49:02,119 WARN clearConfigHistory start
+
+2019-11-28 14:59:02,006 INFO [capacityManagement] start correct usage
+
+2019-11-28 14:59:02,009 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 14:59:02,130 WARN clearConfigHistory start
+
+2019-11-28 15:09:02,010 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:09:02,013 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:09:02,137 WARN clearConfigHistory start
+
+2019-11-28 15:09:59,733 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 15:19:02,016 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:19:02,019 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:19:02,149 WARN clearConfigHistory start
+
+2019-11-28 15:29:02,022 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:29:02,024 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:29:02,154 WARN clearConfigHistory start
+
+2019-11-28 15:39:02,025 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:39:02,035 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:39:02,158 WARN clearConfigHistory start
+
+2019-11-28 15:49:02,037 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:49:02,043 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:49:02,165 WARN clearConfigHistory start
+
+2019-11-28 15:59:02,045 INFO [capacityManagement] start correct usage
+
+2019-11-28 15:59:02,048 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 15:59:02,171 WARN clearConfigHistory start
+
+2019-11-28 16:09:02,050 INFO [capacityManagement] start correct usage
+
+2019-11-28 16:09:02,052 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 16:09:02,173 WARN clearConfigHistory start
+
+2019-11-28 16:19:02,053 INFO [capacityManagement] start correct usage
+
+2019-11-28 16:19:02,061 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 16:19:02,175 WARN clearConfigHistory start
+
+2019-11-28 16:29:02,065 INFO [capacityManagement] start correct usage
+
+2019-11-28 16:29:02,073 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 16:29:02,180 WARN clearConfigHistory start
+
+2019-11-28 16:39:02,074 INFO [capacityManagement] start correct usage
+
+2019-11-28 16:39:02,077 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 16:39:02,187 WARN clearConfigHistory start
+
+2019-11-28 16:53:09,752 WARN clearConfigHistory start
+
+2019-11-28 16:59:03,484 INFO [capacityManagement] start correct usage
+
+2019-11-28 16:59:03,497 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:03:09,755 WARN clearConfigHistory start
+
+2019-11-28 17:09:03,499 INFO [capacityManagement] start correct usage
+
+2019-11-28 17:09:03,510 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:13:09,764 WARN clearConfigHistory start
+
+2019-11-28 17:19:03,513 INFO [capacityManagement] start correct usage
+
+2019-11-28 17:19:03,519 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:23:09,769 WARN clearConfigHistory start
+
+2019-11-28 17:29:03,521 INFO [capacityManagement] start correct usage
+
+2019-11-28 17:29:03,527 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:33:09,772 WARN clearConfigHistory start
+
+2019-11-28 17:39:03,529 INFO [capacityManagement] start correct usage
+
+2019-11-28 17:39:03,536 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:43:09,773 WARN clearConfigHistory start
+
+2019-11-28 17:52:25,507 INFO [capacityManagement] start correct usage
+
+2019-11-28 17:52:25,525 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 17:53:09,782 WARN clearConfigHistory start
+
+2019-11-28 18:02:25,527 INFO [capacityManagement] start correct usage
+
+2019-11-28 18:02:25,529 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 18:03:09,786 WARN clearConfigHistory start
+
+2019-11-28 18:12:25,531 INFO [capacityManagement] start correct usage
+
+2019-11-28 18:12:25,533 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 18:13:09,790 WARN clearConfigHistory start
+
+2019-11-28 18:21:43,937 INFO Expired JWT token.
+
+2019-11-28 18:21:43,941 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-11-28 18:22:25,535 INFO [capacityManagement] start correct usage
+
+2019-11-28 18:22:25,537 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 18:23:09,794 WARN clearConfigHistory start
+
+2019-11-28 19:40:51,118 WARN clearConfigHistory start
+
+2019-11-28 19:47:38,952 INFO [capacityManagement] start correct usage
+
+2019-11-28 19:47:38,958 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 19:50:51,121 WARN clearConfigHistory start
+
+2019-11-28 19:57:38,966 INFO [capacityManagement] start correct usage
+
+2019-11-28 19:57:38,972 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:00:51,136 WARN clearConfigHistory start
+
+2019-11-28 20:07:38,983 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:07:38,989 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:10:51,141 WARN clearConfigHistory start
+
+2019-11-28 20:17:38,992 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:17:38,995 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:20:51,160 WARN clearConfigHistory start
+
+2019-11-28 20:27:38,996 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:27:39,003 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:30:51,164 WARN clearConfigHistory start
+
+2019-11-28 20:37:39,014 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:37:39,019 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:40:51,190 WARN clearConfigHistory start
+
+2019-11-28 20:47:39,022 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:47:39,029 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-11-28 20:50:51,200 WARN clearConfigHistory start
+
+2019-11-28 20:57:39,033 INFO [capacityManagement] start correct usage
+
+2019-11-28 20:57:39,040 INFO [capacityManagement] end correct usage, cost: 0s
+

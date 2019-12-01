@@ -1,0 +1,4 @@
+2019-11-29 16:52:18,572|192.168.2.109|service-provider.properties|cloud|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-29 16:52:18,630|192.168.2.109|service-provider-test.properties|cloud|null|unknown|1574936555000|pull|ok|80983630|127.0.0.1
+2019-11-29 16:52:21,056|192.168.2.109|service-provider.properties|cloud|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-29 16:52:21,067|192.168.2.109|service-provider-test.properties|cloud|null|unknown|1574936555000|pull|ok|80986067|127.0.0.1

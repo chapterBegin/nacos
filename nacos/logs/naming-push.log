@@ -1,0 +1,138 @@
+2019-12-01 07:12:19,014 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 07:12:19,615 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 07:12:22,881 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 07:12:22,884 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 07:24:57,021 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 07:24:57,039 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 07:28:27,022 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 07:28:42,234 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 07:31:37,106 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 07:31:52,115 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 07:43:49,859 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 08:07:35,052 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 08:07:50,424 INFO cloud@@service-consumer is changed, add it to push queue.
+
+2019-12-01 08:51:28,904 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 08:55:03,963 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 08:55:18,974 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 09:01:06,065 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 09:08:37,498 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:08:37,501 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:54609, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,54609,317849265629200
+
+2019-12-01 09:08:37,502 INFO send udp packet: 192.168.2.109,54609,317849265629200
+
+2019-12-01 09:08:37,514 INFO received ack: {"type": "push-ack", "lastRefTime":"317849265629200", "data":""} from: 192.168.2.109:, cost: 54609 ms, unacked: 12, total push: 0
+
+2019-12-01 09:08:39,095 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 09:08:54,107 INFO cloud@@service-provider is changed, add it to push queue.
+
+2019-12-01 09:22:26,381 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:22:26,383 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:61148, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,61148,318678148283000
+
+2019-12-01 09:22:26,384 INFO send udp packet: 192.168.2.109,61148,318678148283000
+
+2019-12-01 09:22:26,401 INFO received ack: {"type": "push-ack", "lastRefTime":"318678148283000", "data":""} from: 192.168.2.109:, cost: 61148 ms, unacked: 17, total push: 0
+
+2019-12-01 09:25:15,915 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:38:17,477 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:40:22,811 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:40:22,812 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:54260, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,54260,319754578734100
+
+2019-12-01 09:40:22,813 INFO send udp packet: 192.168.2.109,54260,319754578734100
+
+2019-12-01 09:40:22,814 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:62910, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,62910,319754578734100
+
+2019-12-01 09:40:22,814 INFO send udp packet: 192.168.2.109,62910,319754578734100
+
+2019-12-01 09:40:22,829 INFO received ack: {"type": "push-ack", "lastRefTime":"319754578734100", "data":""} from: 192.168.2.109:, cost: 62910 ms, unacked: 15, total push: 1
+
+2019-12-01 09:40:22,839 INFO received ack: {"type": "push-ack", "lastRefTime":"319754578734100", "data":""} from: 192.168.2.109:, cost: 54260 ms, unacked: 26, total push: 0
+
+2019-12-01 09:40:28,722 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:40:28,725 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:54260, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,54260,319760490610700
+
+2019-12-01 09:40:28,727 INFO send udp packet: 192.168.2.109,54260,319760490610700
+
+2019-12-01 09:40:28,728 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:62910, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,62910,319760490610700
+
+2019-12-01 09:40:28,728 INFO send udp packet: 192.168.2.109,62910,319760490610700
+
+2019-12-01 09:40:28,736 INFO received ack: {"type": "push-ack", "lastRefTime":"319760490610700", "data":""} from: 192.168.2.109:, cost: 62910 ms, unacked: 8, total push: 1
+
+2019-12-01 09:40:28,748 INFO received ack: {"type": "push-ack", "lastRefTime":"319760490610700", "data":""} from: 192.168.2.109:, cost: 54260 ms, unacked: 21, total push: 0
+
+2019-12-01 09:52:36,811 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 09:52:36,813 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService::cloud changed, schedule push for: 192.168.2.109:56149, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,56149,320488578671900
+
+2019-12-01 09:52:36,814 INFO send udp packet: 192.168.2.109,56149,320488578671900
+
+2019-12-01 09:52:36,833 INFO received ack: {"type": "push-ack", "lastRefTime":"320488578671900", "data":""} from: 192.168.2.109:, cost: 56149 ms, unacked: 19, total push: 0
+
+2019-12-01 09:52:37,934 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:52:37,935 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: changed, schedule push for: 192.168.2.109:54260, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:52:37,936 INFO send udp packet: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:52:47,937 INFO retry to push data, key: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:52:47,937 INFO send udp packet: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:52:50,703 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloudtest is changed, add it to push queue.
+
+2019-12-01 09:52:51,246 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:52:52,961 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:52:57,940 INFO retry to push data, key: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:52:57,942 WARN max re-push times reached, retry times 2, key: 192.168.2.109,54260,320489700949000
+
+2019-12-01 09:53:06,252 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService:: is changed, add it to push queue.
+
+2019-12-01 09:53:26,957 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 09:53:30,709 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloudtest is changed, add it to push queue.
+
+2019-12-01 09:53:45,713 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloudtest is changed, add it to push queue.
+
+2019-12-01 09:56:02,969 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 10:06:33,515 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 10:06:33,515 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 10:06:35,352 INFO DEFAULT_GROUP@@providers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
+2019-12-01 10:06:35,353 INFO serviceName: DEFAULT_GROUP@@providers:com.learn.service.api.TestService::cloud changed, schedule push for: 192.168.2.109:56149, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.109,56149,321327124897900
+
+2019-12-01 10:06:35,354 INFO send udp packet: 192.168.2.109,56149,321327124897900
+
+2019-12-01 10:06:35,356 INFO received ack: {"type": "push-ack", "lastRefTime":"321327124897900", "data":""} from: 192.168.2.109:, cost: 56149 ms, unacked: 2, total push: 0
+
+2019-12-01 10:06:36,214 INFO DEFAULT_GROUP@@consumers:com.learn.service.api.TestService::cloud is changed, add it to push queue.
+
